@@ -30,7 +30,7 @@ This project is an Inventory Management System built using Django REST framework
    Ensure MongoDB is installed and running on your machine. Update the MongoDB connection settings in your Django settings file if necessary.
 
    ```
-   host='your_mongoDB_host'
+   host='your-mongoDB-host'
    ```
 
 4. Run the development server:
